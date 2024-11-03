@@ -10,6 +10,7 @@ import SwiftUI
 struct MainView: View {
     
     @ObservedObject var jokeListViewModel: JokeListViewModel
+    @State private var sakla = true
     
     init() {
         self.jokeListViewModel = JokeListViewModel()
@@ -44,8 +45,10 @@ struct MainView: View {
                 }
                 Button {
                     Task {
-                        jokeListViewModel.jokeList.removeAll(keepingCapacity: true)
-                        await jokeListViewModel.downloadJokesAsync(url: URL(string: "https://official-joke-api.appspot.com/random_joke")!)
+                        if sakla {
+                    jokeListViewModel.jokeList.removeAll(keepingCapacity: true)
+                        }
+                    await jokeListViewModel.downloadJokesAsync(url: URL(string: "https://official-joke-api.appspot.com/random_joke")!)
                     }
                 } label: {
                     Text("New Joke")
@@ -56,7 +59,14 @@ struct MainView: View {
                         .cornerRadius(10)
                 }
                 .padding()
-            }
+            }.toolbar(content: {
+                Button {
+                    self.sakla.toggle()
+                } label: {
+                    Text(sakla ? "Hide" : "Show")
+                }
+
+            })
             .navigationTitle("Random Joke App")
         }
         .task {
