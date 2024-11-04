@@ -1,7 +1,8 @@
 ## Random Joke App Uygulama Kullanımı
-| Tek Saka | Birden Fazla Saka Istek |
+| Tek Şaka | Birden Fazla Şaka İsteği |
 |---------|---------|
-| ![Video 1](https://github.com/user-attachments/assets/1c9e0254-91f7-468d-87ee-33cfc7482cdf) | ![Video 2](https://github.com/user-attachments/assets/497ceaac-9f46-48a5-8e5c-bf05148499f5) |
+| <img src="https://github.com/user-attachments/assets/1c9e0254-91f7-468d-87ee-33cfc7482cdf" alt="Video 1" width="300"/> | <img src="https://github.com/user-attachments/assets/497ceaac-9f46-48a5-8e5c-bf05148499f5" alt="Video 2" width="300"/> |
+
 
  <details>
     <summary><h2>Uygulamanın Amacı</h2></summary>
