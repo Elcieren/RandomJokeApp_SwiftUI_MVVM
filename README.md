@@ -220,7 +220,7 @@
         </td>
         <td style="text-align: center; width: 16.67%;">
             <h4 style="font-size: 14px;">Kullanıcının İsteğine Göre  Çoklu Şaka</h4>
-            <img src="[https://github.com/user-attachments/assets/156144a1-28d4-48c1-9436-0b4134506e0b](https://github.com/user-attachments/assets/eff20e48-5798-41dd-b3e0-00af86fbd7ec)" style="width: 100%; height: auto;">
+            <img src="https://github.com/user-attachments/assets/eff20e48-5798-41dd-b3e0-00af86fbd7ec" style="width: 100%; height: auto;">
         </td>
     </tr>
 </table>
