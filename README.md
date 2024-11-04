@@ -210,7 +210,6 @@
 
 <details>
     <summary><h2>Uygulama Görselleri</h2></summary>
-    
     <table style="width: 100%;">
         <tr>
             <td style="text-align: center; width: 50%;">
@@ -224,4 +223,5 @@
         </tr>
     </table>
 </details>
+
 
