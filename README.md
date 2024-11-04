@@ -215,11 +215,11 @@
  <table style="width: 100%;">
     <tr>
         <td style="text-align: center; width: 16.67%;">
-            <h4 style="font-size: 14px;">Ana Ekran</h4>
+            <h4 style="font-size: 14px;">Kullanıcının İsteğine Göre Tek Şaka</h4>
             <img src="https://github.com/user-attachments/assets/d5796e64-d650-4471-b8b5-710112a6017f" style="width: 100%; height: auto;">
         </td>
         <td style="text-align: center; width: 16.67%;">
-            <h4 style="font-size: 14px;">Annotation Tiklanma</h4>
+            <h4 style="font-size: 14px;">Kullanıcının İsteğine Göre Çoklu Şaka<</h4>
             <img src="https://github.com/user-attachments/assets/eff20e48-5798-41dd-b3e0-00af86fbd7ec" style="width: 100%; height: auto;">
         </td>
     </tr>
