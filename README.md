@@ -1,5 +1,5 @@
 ## Random Joke App Uygulama Kullanımı
-| Tek Şaka | Birden Fazla Şaka İsteği |
+| Tek Şaka | Birden Fazla Şaka Kaydedilmesi |
 |---------|---------|
 | <img src="https://github.com/user-attachments/assets/1c9e0254-91f7-468d-87ee-33cfc7482cdf" alt="Video 1" width="300"/> | <img src="https://github.com/user-attachments/assets/497ceaac-9f46-48a5-8e5c-bf05148499f5" alt="Video 2" width="300"/> |
 
